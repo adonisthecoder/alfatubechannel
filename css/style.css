@@ -1,0 +1,6 @@
+body {
+   background-image: url(../backgrounds/main-background.png);
+   background-size: 100% 80%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
