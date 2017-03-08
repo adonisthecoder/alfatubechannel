@@ -16,3 +16,9 @@ body {
 .video-container {
    width: 30%;
 }
+@media (max-width: 780px) {
+  .video-container {
+     margin: auto;
+     width: 80%;
+  }
+}
