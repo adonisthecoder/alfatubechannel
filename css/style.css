@@ -4,3 +4,15 @@ body {
    background-repeat: no-repeat;
    background-attachment: fixed;
 }
+#alfatube-transparent-logo {
+   width: 300px;
+   margin: auto;
+   display: block;
+   margin-top: -15px;
+}
+#vid-1 {
+   width: 100%;
+}
+.video-container {
+   width: 30%;
+}
